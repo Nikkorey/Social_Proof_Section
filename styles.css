@@ -225,7 +225,7 @@ footer {
   .reviews__wrapper {
     display: flex;
     align-items: center;
-    padding: 1.3125rem 2.0625rem;
+    padding: 1.25rem 2.0625rem;
   }
 
   .reviews__wrapper p {
